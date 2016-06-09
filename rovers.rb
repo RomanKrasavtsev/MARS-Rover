@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Roman Krasavtsev 2016
 
 # Messages
 PLATEAU_SIZE = "Set the upper-right coordinates of a plateau:\n"
