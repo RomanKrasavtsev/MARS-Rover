@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Roman Krasavtsev 2016
 
 require './rovers.rb'
 
