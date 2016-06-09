@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 # Roman Krasavtsev 2016
+# https://github.com/RomanKrasavtsev/MARS-Rover
 
 require './rovers.rb'
 
